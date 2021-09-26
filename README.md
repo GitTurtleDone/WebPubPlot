@@ -1,2 +1,2 @@
 # WebPubPlot
-Plot publication-quality plots from a web browser
+Plot publication-quality graphs from a web browser
